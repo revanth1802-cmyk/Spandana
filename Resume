@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spandana Mattur R – Customer Relation Executive</title>
+<meta name="description" content="Resume of Spandana Mattur R, Customer Relation Executive based in Bangalore.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f8fb; --card:#ffffff; --ink:#1c2433; --muted:#5b6678;
+  --line:#dde3ec; --brand:#1d4e89; --tint:#e6eef8; --accent:#a24a12;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#10151d; --card:#171e29; --ink:#e8edf5; --muted:#9aa6b8; --line:#2a3445; --brand:#7fb0ea; --tint:#1d2b40; --accent:#e5a06b;}
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 "Instrument Sans",system-ui,sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding:40px 20px 64px}
+header{display:flex;gap:28px;align-items:center;margin-bottom:28px}
+.avatar{flex:none;width:112px;height:112px;border-radius:50%;background:var(--brand);color:#fff;display:grid;place-items:center;font:600 40px "Fraunces",serif;overflow:hidden}
+.avatar img{width:100%;height:100%;object-fit:cover}
+h1{font:600 clamp(30px,5vw,44px)/1.1 "Fraunces",serif;margin:0 0 6px;color:var(--ink)}
+.role{font-size:19px;color:var(--accent);margin:0 0 14px;font-weight:500}
+.contact{display:flex;flex-wrap:wrap;gap:8px 18px;margin:0;padding:0;list-style:none;color:var(--muted);font-size:15px}
+.contact a{color:inherit;text-decoration:none;border-bottom:1px solid var(--line)}
+.contact a:hover{color:var(--brand);border-color:var(--brand)}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:26px 28px;margin-bottom:18px}
+h2{font:600 22px/1.2 "Fraunces",serif;margin:0 0 14px;color:var(--brand)}
+p{margin:0}
+.skills{display:flex;flex-wrap:wrap;gap:8px;margin:0;padding:0;list-style:none}
+.skills li{background:var(--tint);color:var(--brand);padding:5px 14px;border-radius:999px;font-size:14.5px;font-weight:500}
+.job{padding-left:18px;border-left:3px solid var(--line);margin-bottom:26px}
+.job:last-child{margin-bottom:0}
+.job.current{border-color:var(--brand)}
+.job-head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 16px;align-items:baseline}
+h3{font:600 18px/1.3 "Instrument Sans",sans-serif;margin:0}
+.where{color:var(--muted);font-size:15px;margin:0 0 8px}
+.when{color:var(--muted);font-size:14.5px;white-space:nowrap}
+ul.points{margin:8px 0 0;padding-left:20px}
+ul.points li{margin-bottom:5px;max-width:72ch}
+.edu{display:flex;flex-wrap:wrap;justify-content:space-between;gap:2px 16px;margin-bottom:14px}
+.edu:last-child{margin-bottom:0}
+.edu p{color:var(--muted);font-size:15px}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.cols section{margin:0}
+.cols ul{margin:0;padding-left:20px}
+footer{text-align:center;color:var(--muted);font-size:14px;margin-top:28px}
+a:focus-visible{outline:2px solid var(--brand);outline-offset:3px}
+@media (max-width:640px){
+  header{flex-direction:column;text-align:center}
+  .contact{justify-content:center}
+  .cols{grid-template-columns:1fr}
+  section{padding:22px 18px}
+}
+@media print{
+  body{background:#fff}
+  section{break-inside:avoid;border-color:#ccc}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <!-- To add a photo: replace the initials with <img src="photo.jpg" alt="Spandana Mattur R"> -->
+  <div class="avatar" aria-hidden="true">SM</div>
+  <div>
+    <h1>Spandana Mattur R</h1>
+    <p class="role">Customer Relation Executive</p>
+    <ul class="contact">
+      <li><a href="tel:+917676106756">7676106756</a></li>
+      <li><a href="mailto:rspandanamattur2004@gmail.com">rspandanamattur2004@gmail.com</a></li>
+      <li>Chikkagondanahalli, Chitradurga, Karnataka 577502</li>
+    </ul>
+  </div>
+</header>
+
+<section>
+  <h2>Summary</h2>
+  <p>Highly motivated Customer Support Executive with a track record of resolving customer inquiries promptly and effectively. Experienced in technical support, troubleshooting software and hardware issues, and handling escalated concerns. Strong communication, problem-solving and time management skills, with a commitment to exceptional service. Recognised for developing knowledge base articles that improve customer self-service, and for working with product and engineering teams to address customer issues and improve product functionality.</p>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul class="skills">
+    <li>Problem Solving</li><li>Interpersonal Skills</li><li>Adaptability</li>
+    <li>Technical Support</li><li>Troubleshooting</li><li>Product Knowledge</li>
+    <li>Customer Satisfaction</li><li>Customer Service</li><li>MS Excel MIS Reporting</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Experience</h2>
+
+  <article class="job current">
+    <div class="job-head"><h3>Customer Relation Executive</h3><span class="when">Jan 2026 – Present</span></div>
+    <p class="where">Sangam Sweets, Bangalore</p>
+    <ul class="points">
+      <li>Input and update customer information in company databases and generate regular reports.</li>
+      <li>Support the front-end sales team, coordinate client requests and manage administrative tasks related to customer service.</li>
+      <li>Resolve customer queries and complaints and gather feedback via email and phone.</li>
+      <li>Identify potential new business leads and make outbound calls for customer retention and service follow-ups.</li>
+      <li>Process client orders, manage invoices and update tracking sheets.</li>
+      <li>Maintain, update and secure databases and documentation.</li>
+      <li>Act as a liaison between sales, technical teams and management.</li>
+      <li>Troubleshoot product or service issues by identifying root causes and offering practical, step-by-step solutions.</li>
+      <li>Collaborate with sales, tech and logistics to escalate and resolve recurring or complex customer issues.</li>
+      <li>Provide timely updates and follow-ups to ensure customer satisfaction and closure of queries.</li>
+      <li>Help improve customer support processes and share customer feedback with the relevant teams.</li>
+      <li>Develop daily, weekly and monthly MIS reports using MS Excel.</li>
+      <li>Ensure data integrity across systems through validation, cleansing and auditing.</li>
+      <li>Coordinate with Sales, HR and Finance to understand reporting needs.</li>
+      <li>Build long-lasting, trusting client relationships through professional and empathetic communication.</li>
+      <li>Analyse client data to identify products or services to recommend to management.</li>
+      <li>Maintain client interaction logs, handle customer accounts and file paperwork.</li>
+    </ul>
+  </article>
+
+  <article class="job">
+    <div class="job-head"><h3>Customer Support Executive</h3><span class="when">Jan 2025 – Dec 2025</span></div>
+    <p class="where">Hathway Broadband Limited, Bangalore, Karnataka</p>
+    <ul class="points">
+      <li>Assisted customers with broadband service inquiries and technical issues.</li>
+      <li>Resolved complaints efficiently through phone, email and chat.</li>
+      <li>Educated customers on service features and troubleshooting techniques.</li>
+      <li>Documented customer interactions accurately in the support management system.</li>
+      <li>Escalated unresolved issues promptly to technical teams.</li>
+      <li>Provided support during peak periods of activity.</li>
+      <li>Assisted customers with product installation, setup and selection based on their needs.</li>
+      <li>Generated reports to track customer satisfaction levels.</li>
+      <li>Supported the sales team, improving product knowledge on a continuous basis to help achieve sales quotas.</li>
+      <li>Took special orders in person and by telephone, generating additional revenue every month.</li>
+      <li>Strengthened customer retention by offering discount options.</li>
+      <li>Contacted customers about service upgrades, new services and account changes.</li>
+      <li>Managed order processing and tracked inventory levels for timely fulfilment.</li>
+      <li>Assisted in preparing sales reports and presentations for management reviews.</li>
+      <li>Supported the sales team with current territory sales data and costing information.</li>
+    </ul>
+  </article>
+
+  <article class="job">
+    <div class="job-head"><h3>Data Entry Operator</h3><span class="when">May 2023 – Dec 2024</span></div>
+    <p class="where">Agriculture Office, Chitradurga, Karnataka</p>
+    <ul class="points">
+      <li>Maintained office records.</li>
+      <li>Attended customer calls.</li>
+      <li>Checked mail and responded to customer queries.</li>
+    </ul>
+  </article>
+</section>
+
+<section>
+  <h2>Education</h2>
+  <div class="edu">
+    <div><h3>Diploma in Agriculture</h3><p>Agricultural University, Karnataka University, Raichur</p></div>
+    <div class="when">Oct 2021 · CGPA 7.03</div>
+  </div>
+  <div class="edu">
+    <div><h3>SSLC (KSEEB)</h3><p>Government High School, Chikkagondanahalli</p></div>
+    <div class="when">Apr 2019 · 71%</div>
+  </div>
+</section>
+
+<div class="cols">
+  <section>
+    <h2>Languages</h2>
+    <ul><li>English</li><li>Kannada</li><li>Hindi</li><li>Telugu</li></ul>
+  </section>
+  <section>
+    <h2>Interests</h2>
+    <ul><li>Listening to music</li><li>Reading books</li></ul>
+  </section>
+</div>
+
+<footer>Spandana Mattur R · Bangalore, Karnataka</footer>
+</div>
+</body>
+</html>
